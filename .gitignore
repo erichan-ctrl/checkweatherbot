@@ -1,0 +1,4 @@
+# Project exclude paths
+/venvWeather/
+__pycache__
+.vscode
